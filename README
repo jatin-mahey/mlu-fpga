@@ -1,0 +1,4 @@
+===================================
+NESTED MULTIPLIER - FPGA
+===================================
+This is a verilog implementation for a novel nested multiplier design that utilizes bit shifting to reduce sequential area.
