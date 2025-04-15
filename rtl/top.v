@@ -6,7 +6,7 @@ module top(
     );
     reg [2:0] cstate = 3'b000, fstate, temp_A, temp_B;
     reg [5:0] lalb_rslt, galb_rslt;
-    
+
     localparam START   = 3'b000;
     localparam LA_EB   = 3'b001;
     localparam EA_LB   = 3'b010;
